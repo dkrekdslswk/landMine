@@ -1,0 +1,10 @@
+﻿  WELL512.cpp
+  temporary_main.cpp
+  land_mine_map_print.cpp
+  land_mine_map_build.cpp
+  land_mine_game_setting_save.cpp
+  land_mine_game_conptroller.cpp
+  fs_conio_order.cpp
+  코드를 생성하고 있습니다...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: _main 외부 기호(참조 위치: "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수)에서 확인하지 못했습니다.
+D:\My Life\Documents\Visual Studio 2015\Projects\land_mine_search\Debug\code_test_4.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
